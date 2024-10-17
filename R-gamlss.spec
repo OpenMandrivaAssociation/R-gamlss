@@ -7,7 +7,7 @@ Release:          1
 Summary:          Generalised Additive Models for Location Scale and Shape
 Group:            Sciences/Mathematics
 License:          GPLv2+
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_4.2-6.tar.gz
 
 Requires:         R-graphics R-stats R-splines R-utils R-gamlss.dist R-gamlss.data R-nlme 
